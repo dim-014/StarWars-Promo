@@ -1,5 +1,5 @@
 # StarWars Promo Site
-Created with CodeSandbox (imported to Github yesterday)
+Created with CodeSandbox (imported to Github on December 18, 2019)
 
 A promo website created last month. I used HTML, CSS and a bit of jQuery.
 
