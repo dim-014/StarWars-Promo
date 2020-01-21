@@ -1,4 +1,4 @@
-# dim-014.github.io
+# StarWars Promo Site
 Created with CodeSandbox (imported to Github yesterday)
 
 A promo website created last month. I used HTML, CSS and a bit of jQuery.
